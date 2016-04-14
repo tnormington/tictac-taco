@@ -1,0 +1,28 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "My version of Tic-Tac-Toe",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnormington/tictac-taco.git"
+  },
+  "keywords": [
+    "Tic-Tac-Toe",
+    "Game",
+    "Node"
+  ],
+  "author": "Tim Normington",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnormington/tictac-taco/issues"
+  },
+  "homepage": "https://github.com/tnormington/tictac-taco#readme"
+}
